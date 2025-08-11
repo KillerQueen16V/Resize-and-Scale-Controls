@@ -5,9 +5,9 @@ A simple, reusable utility for **automatic resizing and scaling of controls** in
 ![ResizeControls](https://github.com/user-attachments/assets/9b10a91b-c0de-4d93-807d-f9d49433cd41)
 
 # 💡 Reason for Development
-During my work in automation and custom application development, I often needed to create desktop UIs with flexible layouts in a fast-paced enviroment. In a factory various DPI screen sizes are often encountered, some of which needs to run the same application.
+During my work in automation and custom application development, I often needed to create desktop UIs with flexible layouts in a fast-paced environment. In a factory various DPI screen sizes are often encountered, some of which needs to run the same application.
 
-The problem? WinForms are ideal for creating UIs quickly, but lacks the ability to natively handle **responsive design** - resizing a form usually results in misplaced controls, distorted propertions, and inconsistent font scaling.
+The problem? WinForms are ideal for creating UIs quickly, but lacks the ability to natively handle **responsive design** - resizing a form usually results in misplaced controls, distorted proportions, and inconsistent font scaling.
 
 I build this utility to:
 
